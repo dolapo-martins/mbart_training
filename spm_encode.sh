@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SPM='./sentencepiece/build/src/spm_encode'
-MODEL='tokenizer/spm.model.model'
+MODEL='tokenizer/spm.model'
 DATA='dataset'
 TRAIN='train'
 TEST='test'
